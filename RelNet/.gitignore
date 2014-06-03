@@ -1,5 +1,9 @@
 /bin
+
 /lib/stanford-corenlp-3.3.1-models.jar
 /lib/stanford-corenlp-3.3.1.jar
+
+/corpus
+
 *.class
 *.pyc
